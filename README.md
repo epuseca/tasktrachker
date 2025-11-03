@@ -80,5 +80,5 @@ The application includes error handling for:
 - Invalid status values
 - File read/write operations
 
-## Project by roadmap.sh
-- https://roadmap.sh/projects/task-tracker
+## 🌐 Project Link
+https://roadmap.sh/projects/task-tracker
